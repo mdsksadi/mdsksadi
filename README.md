@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sadi</h1>
+<h1 align="center">Hi 👋, I'm MD Shekh Sadi</h1>
 
 <h3 align="center">
   Embedded Software Engineer | Embedded Linux | IOT
@@ -40,7 +40,7 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 
 ### ⚙️ Embedded Systems & Testing
-![Embedded LInux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Embedded Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00599C?style=flat)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white)
