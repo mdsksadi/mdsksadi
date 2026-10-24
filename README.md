@@ -1,5 +1,4 @@
-```markdown
-<h1 align="center">Hi 👋, I'm MD Shekh Sadi</h1>
+<h1 align="center">Hi 👋, I'm Sadi</h1>
 
 <h3 align="center">
   Embedded Software Engineer | Embedded Linux | IOT
