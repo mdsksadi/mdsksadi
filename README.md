@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shekh-sadi-embedded-software-germany/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/mdsksadi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
@@ -129,12 +129,10 @@ DevOps automation, cloud infrastructure, and open-source projects.
 If you're working on something interesting, feel free to connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shekh-sadi-4731bb1a4/">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/shekh-sadi-embedded-software-germany/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  |
   <a href="https://github.com/mdsksadi">
-    GitHub
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
-```
